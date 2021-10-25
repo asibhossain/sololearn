@@ -17,6 +17,10 @@
   <td width="50%"><img src="https://github.com/ahoteshanul/SoloLearn/blob/main/SOLO%20LEARN/cert-10059405-1060.png" alt="BLANK" width="450" height="30%"></td>
   <td width="50%"><img src="https://github.com/ahoteshanul/images/blob/main/cert-1165-10059405.jpg" alt="BLANK" width="450" height="30%"></td>
   </tr>
+    <br>
+    <tr>
+  <td width="50%"><img src="https://github.com/ahoteshanul/images/blob/main/cert-10059405-1073.png" alt="BLANK" width="450" height="30%"></td>
+  </tr>
 </table>
 </body>
 </html>
